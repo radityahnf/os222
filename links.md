@@ -7,4 +7,6 @@ permalink: /LINKS/
    Learn the basics of the Linux Operating System with this video. It's pretty useful to get started with Linux.
 2. [LEARN AWK](https://www.youtube.com/watch?v=9YOZmI-zWok)
    Learn the basics of AWK. This video helps me with their examples of some basic awk commands
+3. [LINUX CHEATSHEET](https://www.guru99.com/linux-commands-cheat-sheet.html)
+   Learn about essential commands in Linux
 
