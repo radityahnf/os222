@@ -9,4 +9,8 @@ permalink: /LINKS/
    Learn the basics of AWK. This video helps me with their examples of some basic awk commands
 3. [LINUX CHEATSHEET](https://www.guru99.com/linux-commands-cheat-sheet.html)
    Learn about essential commands in Linux
-
+4. [LINUX FILESYSTEM](https://www.javatpoint.com/linux-file-system#:~:text=What%20is%20the%20Linux%20File,more%20information%20about%20a%20file.)
+   Learn about the file system in Linux
+5. [SHELLSCRIPTING](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
+   Learn about shell scripting
+   
