@@ -13,4 +13,5 @@ permalink: /LINKS/
    Learn about the file system in Linux
 5. [SHELLSCRIPTING](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
    Learn about shell scripting
-   
+6. [LEARN C](https://www.learn-c.org/)
+   Learn about the fundamental of C language
