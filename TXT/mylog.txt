@@ -27,3 +27,11 @@ ZCZC W03 60 L12 Assignment #02
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 45 L40 TXT/ related in general.
 ZCZC W03 45 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 90 L05 Quiz & Studying
+ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 90 L11 Assignment #04
+ZCZC W04 60 L01 SCELE/Discord related
+ZCZC W04 45 L03 GitHub and git related
+ZCZC W04 20 L41 TXT/mylog.txt related.
+
