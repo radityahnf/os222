@@ -15,3 +15,5 @@ permalink: /LINKS/
    Learn about shell scripting
 6. [LEARN C](https://www.learn-c.org/)
    Learn about the fundamental of C language
+7. [VIRTUAL MEMORY](https://www.techtarget.com/searchstorage/definition/virtual-memory)
+   Learn about virtual memory
