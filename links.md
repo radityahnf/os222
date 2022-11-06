@@ -17,3 +17,5 @@ permalink: /LINKS/
    Learn about the fundamental of C language
 7. [VIRTUAL MEMORY](https://www.techtarget.com/searchstorage/definition/virtual-memory)
    Learn about virtual memory
+8. [FORK SYSTEM CALL](https://linuxhint.com/fork-system-call-linux/)
+   Learn about fork system
