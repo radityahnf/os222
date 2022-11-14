@@ -19,3 +19,5 @@ permalink: /LINKS/
    Learn about virtual memory
 8. [FORK SYSTEM CALL](https://linuxhint.com/fork-system-call-linux/)
    Learn about fork system
+9. [Process Synchronization in C/C++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus)
+   Learn about process synchronization
