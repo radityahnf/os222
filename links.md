@@ -21,3 +21,5 @@ permalink: /LINKS/
    Learn about fork system
 9. [Process Synchronization in C/C++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus)
    Learn about process synchronization
+10 [LFS Mirror] (https://mirrors.ustc.edu.cn/lfs/lfs-packages/11.2/)
+   LFS packages mirror download
