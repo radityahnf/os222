@@ -23,3 +23,6 @@ permalink: /LINKS/
    Learn about process synchronization
 10. [LFS Mirror](https://mirrors.ustc.edu.cn/lfs/lfs-packages/11.2/)
    LFS packages mirror download
+11. [Important Directories](http://www.dba-oracle.com/linux/important_files_directories.htm)
+   List of linux important files and directories
+
