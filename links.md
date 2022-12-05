@@ -25,4 +25,5 @@ permalink: /LINKS/
    LFS packages mirror download
 11. [Important Directories](http://www.dba-oracle.com/linux/important_files_directories.htm)
    List of linux important files and directories
-
+12. [Linux Directory Structure](https://eng.libretexts.org/Bookshelves/Computer_Science/Operating_Systems/Linux_-_The_Penguin_Marches_On_(McClanahan)/04%3A_Managing_Linux_Storage/5.12%3A_Linux_Directory_Structure/5.12.01%3A_Linux_Directory_Structure_-_Hierarchy)
+   Learn about linux directory
